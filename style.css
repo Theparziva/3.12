@@ -1,0 +1,35 @@
+.cuerpo {
+    background-color: rgb(225, 243, 248);
+    font-family: Arial;
+}
+
+.texto {
+    background-color: rgba(136, 191, 201, 0.589);
+}
+
+.titulo {
+    background-color: rgba(98, 124, 139, 0.603);
+    color: rgba(56, 68, 75, 0.733);
+}
+
+.pie {
+    background-color: white;
+    text-align: right;
+}
+
+.subtitulo {
+    background-color: rgba(141, 164, 177, 0.603);
+    color: rgba(61, 69, 75, 0.733);
+}
+
+.resaltar {
+    color: rgb(22, 107, 141);
+}
+
+.negrita {
+    color: rgb(9, 141, 194);
+}
+
+.center {
+    text-align: center;
+}
